@@ -1,0 +1,11 @@
+11;casa;Av Sao Carlos;comercial;1200
+1;apartamento;Avenida Ercílio Mastro Parque Fehr; comercial;500
+2;casa;Marechal Deodoro vila Brasilia;comercial;1000
+3;casa;Episcopal112 Centro;residencial;800
+4;apartamento;Abrão Simão;residncial;850
+5;apartamento;Carmine Missali;resindencial;550
+6;apartamento;ravessa Salim Karam;comercial;912
+7;casa;Avenida Clemente Talarico;comercial;650
+8;casa;antonio selarim;residencial;860
+9;apartamento;americo degan;resincial;1500
+10;casa;guilherme simao darezzo;residencial;1300
